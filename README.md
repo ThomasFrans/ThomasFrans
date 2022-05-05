@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ThomasFrans
+- 👋 Hi, I’m just me
 - 👀 I’m interested in all tech there is to be teched
-- 🌱 I’m currently learning... yeah, I'm always learning
+- 🌱 I’m currently exiting Vim
 - 💞️ I’m looking to collaborate on maybe some OS related stuff
