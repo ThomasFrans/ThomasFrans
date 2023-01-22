@@ -13,5 +13,6 @@ I hate 'em. Both in software and in real life.
 ### Contributing
 I'm always down to learn new things, and I'll get things wrong (very often). I like to contribute to easier Rust projects for now, to try and get a better grasp of Rust in general. I also know c, c++ and Java, but haven't used those in a while since I prefer Rust.
 
-### Stuff outside GitHub
-[A beginner Git worktree tutorial.](https://gist.github.com/ThomasFrans/ab1cb531410ab0cd0616a88a735dd840)
+### My projects
+- [cursive-flexbox](https://github.com/ThomasFrans/cursive-flexbox)
+- [A beginner Git worktree tutorial.](https://gist.github.com/ThomasFrans/ab1cb531410ab0cd0616a88a735dd840)
